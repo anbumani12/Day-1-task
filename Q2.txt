@@ -1,0 +1,15 @@
+Write a blog about objects and its internal representation in Javascript:
+
+Objects in  Javascript:
+It is the complex data type which can be used to store the data.
+Objects have the variety of data types are strings, numbers, arrays, functions, and even other objects.
+Objects are composed of key value pairs. The keys is also known as properties,strings or symbols.
+Internal  representation in Javascript:
+Properties and Values: 
+Each property of an object can be stored as key value pair in the memory. Then key can be stored as a string, and the value in the form of any data type.
+Prototypes:
+In JavaScript objects have a prototype chain, it allows the properties and methods from other objects.
+Memory Allocation:
+It can vary that depending on the client JavaScript engine.
+Hidden Classes: 
+Some JavaScript engines uses the concept of hidden classes for improve the execution speed in objects.

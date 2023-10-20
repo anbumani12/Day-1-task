@@ -1,0 +1,16 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2:
+
+HTTP1.1 was introduced in the year January 1997,it was first publisheded as RFC 2068. HTTP2 was introduced in the year May 2015 and it was published as RFC 7540.
+In HTTP1.1 data can be given one by one and take much more time but HTTP2 gives parallel dataa and more information that belongs to.
+HTTP2 is much faster and it can be more efficient when compare to HTTP1.1
+HTTP2 solves many problems which has been created by HTTP1.1
+Data Format: 
+HTTP1.1 uses the plain text messages,but in HTTP2 it uses a binary format.
+Server Push:
+HTTP1.1 does not have the feature for severs to push,while HTTP2 allows the servers to push whatever it needs.
+Header compression:
+HTTP2 reduces header by using compression, while HTTP1.1 sends excess header information with each request add response.
+Security:
+HTTP2 encourage to use the server through Transport Layer Security (TLS) but HTTP1.1 does not have the secure connections.
+HTTP2 is the advance method for its performance and efficiency when compare to HTTP1.1 so,HTTP2 is much better than HTTP1.1
+
